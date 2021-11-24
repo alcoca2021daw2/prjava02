@@ -1,0 +1,19 @@
+1a-  git branch branca00  
+1b- git checkout branca00
+1c- git status
+
+5- git checkout main // git log  // git diff main..branca00
+
+6- No, ja que estem veien la instantanea del ultim commit de la branca main i la ultima linia esta en la instantanea de l’ultim commit de la branca00.
+
+7- Si, despres de fer el reload al geany es pot veure.Ho podem veure degut a que hem tornat a la branca00 que es la branca on habiem fet el commit amb la linia afegida.
+
+10b- git merge branca00.
+
+12- git push
+
+12c- Nomes s’actualitza la main perquè es sobre la branca que hem fet el git merge.
+
+14a- git push --set-upstream origin branca01
+
+14c- Hi ha un commit de diferència.
